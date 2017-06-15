@@ -3,13 +3,13 @@
 React Fundamentals Video Project
 ========
 
-#### This is a project that was built following React Training's "React Fundamentals" course, for more information on the course see [reacttraining.com/online](https://reacttraining.com/online)
+#### This is a project that was built following React Training's "React Fundamentals" course, for more information see [reacttraining.com/online](https://reacttraining.com/online) and [github.com/ReactTraining/react-fundamentals](https://github.com/ReactTraining/react-fundamentals)
 
-## What Is It?
+## GitHub Battle App
 
 This is a "Github Battle App". Enter in two Github usernames, and it'll declare a winner.
 
 <img src="https://cloud.githubusercontent.com/assets/2933430/26085553/7dac7a1e-39a2-11e7-830a-9011505b5958.png" width="800">
 
 ## Notes and Credit
-Thank you to React Training and to [Tyler McGinnis](https://twitter.com/tylermcginnis33) for the instruction and video lessons that accompany this project in the "React Fundamentals" course.
+Thank you to [React Training](https://reacttraining.com/online) and to [Tyler McGinnis](https://twitter.com/tylermcginnis33) for the instruction and video lessons that accompany this project in the "React Fundamentals" course.
